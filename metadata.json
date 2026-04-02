@@ -1,0 +1,5 @@
+{
+  "name": "Guardian AI: Student Safety Toolkit",
+  "description": "A digital safety suite for PYP5 students to moderate AI research, filter gaming chat, and detect online scams.",
+  "requestFramePermissions": []
+}
